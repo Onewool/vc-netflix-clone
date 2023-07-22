@@ -1,2 +1,2 @@
-# vc-netflix-master
+# vc-netflix-clone
 netflix landing page
